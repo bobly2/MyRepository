@@ -3,7 +3,7 @@
 1、springboot
 2、ssm框架
 3、netty框架
-
+4、json
 
 目前实现的功能：
 1、单点登录，显示网名
